@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/typbing/)
 
 
-Insert link:
-[test](https://www.google.com/maps/place/Paracho,+Michoac%C3%A1n,+Mexico/@19.6411326,-102.2266035,11.09z/data=!4m6!3m5!1s0x842dd8ac188768e5:0x7b4b660500ff29b3!8m2!3d19.6464537!4d-102.0461233!16zL20vMDNkMTg2?entry=ttu&g_ep=EgoyMDI0MDgyMy4wIKXMDSoASAFQAw%3D%3D)
++ 🎓 I am currently pursuing a Master's in Geographic Information Science at Clark University, where my coursework includes Land Change Modeling, Web Mapping and Open Source GIS, and Python Programming.
 
++ 🏗️ I hold a Bachelor's degree in Civil Engineering from Penn State University.
+
++ 🌍 I am passionate about leveraging GIS and engineering principles to tackle complex spatial problems.
 
 
 With bage:
