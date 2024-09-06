@@ -25,10 +25,21 @@ Here are some ideas to get you started:
 
 + 🌍 I am passionate about leveraging GIS and engineering principles to tackle complex spatial problems.
 
++ 💡 More information can be found on my [LinkedIn](https://www.linkedin.com/in/typbing/) | [Resume](https://www.clarku.edu/academics/graduate/programs/masters/geographic-information-science/)
 
-With bage:
-[![test](https://img.shields.io/badge/any_text-you_like-green)](https://www.google.com/maps/place/Paracho,+Michoac%C3%A1n,+Mexico/@19.6411326,-102.2266035,11.09z/data=!4m6!3m5!1s0x842dd8ac188768e5:0x7b4b660500ff29b3!8m2!3d19.6464537!4d-102.0461233!16zL20vMDNkMTg2?entry=ttu&g_ep=EgoyMDI0MDgyMy4wIKXMDSoASAFQAw%3D%3D)
+---
 
+## **Skills**
+![My Skills](https://skillicons.dev/icons?i=py,html,css)
+
+#### Project- working on it...
+
+---
+## Connect with Me
+### I am open and interested in various opportunities for collaboration and engagement. Please don't hesitate to reach out through:
+
+- Email: [Bingli@clarku.edu](mailto:Bingli@clarku.edu)<br />
+- Linkedin: [in/typbing](https://www.linkedin.com/in/typbing/)<br />
 
 
 Dynamic badges:
