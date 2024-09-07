@@ -30,9 +30,13 @@ Here are some ideas to get you started:
 ---
 
 ## **Skills**
-![My Skills](https://skillicons.dev/icons?i=py,html,css)
+![My Skills](https://skillicons.dev/icons?i=py,html,css,postgres)
 
-#### Project- working on it...
+### Project
+- [Transportation and Economic Analysis in NYC](https://github.com/typbing/TransEcon)
+  
+- More project coming soon...
+
 
 ---
 ## Connect with Me
